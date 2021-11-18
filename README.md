@@ -1,1 +1,1 @@
-# CryptoSuggester-backend
+# CryptoSuggester Backend
